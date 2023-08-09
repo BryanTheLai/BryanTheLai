@@ -1,8 +1,16 @@
 ### Hi there,I'm Bryan 👋
 
-<------>
+- Always open to join projects that are aligned with my interests and skills.
+- Big fan of Y Combinator and I am always looking for new ways to learn and grow. 
+- Passion in Technology, Buisness, Psychology and Neuroscience.
+- Bias towards practicality. Where theory is often taught in the ideal of a vacuum, ceteris paribus, the practical is learned through the reality of life.
 
-Here are some ideas to get you started:
+## Connect with Bryan
+<p align="left">
+   <a href="https://www.linkedin.com/in/brnl/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/BryanTheLai"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</p>
 
 ## Technologies Used
 <p align="left">
@@ -21,8 +29,10 @@ Here are some ideas to get you started:
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=green" />
+<img alt="Y Combinator" src="https://img.shields.io/badge/YCombinator-F0652F?&style=for-the-badge&logo=Ycombinator&logoColor=white"/>
  </a>
 </p>
+
 
 <!--
 https://simpleicons.org/
