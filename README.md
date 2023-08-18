@@ -2,8 +2,8 @@
 
 - Always open to join projects that are aligned with my interests and skills.
 - Big fan of Y Combinator and am always looking for new ways to learn and grow.
-- Passion in Technology, Buisness, Psychology and Neuroscience.
-- Bias towards practicality. Where theory is often taught in the ideal of a vacuum, ceteris paribus, the practical is learned through the reality of life.
+  
+Bias towards practicality. Where theory is often taught in the ideal of a vacuum, ceteris paribus, the practical is learned through the reality of life.
 
 ## Connect with Bryan
 <p align="left">
