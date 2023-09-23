@@ -1,5 +1,5 @@
 ### Hi there,I'm Bryan 👋
-- Big fan of Y Combinator and am always looking for new ways to learn and grow.
+Big fan of Y Combinator and am always looking for new ways to learn and grow.
   
 
 
