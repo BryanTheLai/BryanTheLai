@@ -1,16 +1,14 @@
 ### Hi there,I'm Bryan 👋
-Big fan of Y Combinator and am always looking for new ways to learn and grow.
-  
 
 
-## Connect with Bryan
+## Connect
 <p align="left">
    <a href="https://www.linkedin.com/in/brnl/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/BryanTheLai"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </p>
 
-## Tech
+## Technologies used
 <p align="left">
  <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
