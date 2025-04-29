@@ -10,7 +10,7 @@
 </p>
 
 ### Toys
-1. [PDF to Markdown + Chat with PDF](https://docpdf1.streamlit.app)
+1. [PDF to Markdown + Chat with PDF](https://nlp-as.streamlit.app)
 <!-- 2. [Youtube Video Details (Transcripts)](https://cailastube.streamlit.app)
 <!--
 ## Technologies used
