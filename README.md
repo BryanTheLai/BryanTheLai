@@ -8,7 +8,7 @@
 <!--   <a href="https://github.com/BryanTheLai"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 
 </p>
-
+<!-- 
 ### Toys
 1. [PDF to Markdown + Chat with PDF](https://nlp-as.streamlit.app)
 <!-- 2. [Youtube Video Details (Transcripts)](https://cailastube.streamlit.app)
