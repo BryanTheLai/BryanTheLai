@@ -4,7 +4,7 @@
 ### Connect
 1. owner@bryanslab.com
 
-### My main is
+### Stack
 Fastapi, React, Pydantic AI, Docker, Supabase
 
 <p align="left">
