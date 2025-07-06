@@ -16,6 +16,6 @@ Building practical tools for data, AI, and automation.
 
 ## 🌐 Links
 
-- **Portfolio:** [bryanslab.com](https://bryanslab.com)
+- **Personal:** [bryanslab.com](https://bryanslab.com)
 - **Hugging Face:** [NotebookML](https://huggingface.co/NotebookML)
 - **Email:** [owner@bryanslab.com](mailto:owner@bryanslab.com)
