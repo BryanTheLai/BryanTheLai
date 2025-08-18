@@ -1,14 +1,14 @@
 ## 👋 About Me
-Building practical tools for data, AI, and automation.
+Increasing my learning gradient daily.
 
 ---
 
 ## 🚀 Core Skills & Tech
 
-- **Programming Languages:** Python, TypeScript, JavaScript, SQL
+- **Programming Languages:** Python, TypeScript, JavaScript
 - **Version Control:** Git
-- **Frameworks & Libraries:** FastAPI, Streamlit, React, scikit-learn, YOLO
-- **AI & Machine Learning:** AI Workflows, Computer Vision, Natural Language Processing, Recommender Systems
+- **Frameworks & Libraries:** FastAPI, Streamlit, React
+- **AI & Machine Learning:** AI Workflows, Computer Vision, LLM, etc
 - **Data Engineering:** PySpark, Data Pipelines, Hadoop, Kafka, Redis, Neo4j
 - **Cloud & DevOps:** AWS, Docker, Vercel, Supabase
 
