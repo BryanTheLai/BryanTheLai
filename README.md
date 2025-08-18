@@ -1,5 +1,4 @@
 ## 👋 About Me
-Increasing signal-to-noise ratio
 ---
 
 ## 🚀 Core Skills & Tech
