@@ -1,6 +1,5 @@
 ## 👋 About Me
-Increasing my learning gradient daily.
-
+Increasing signal-to-noise ratio
 ---
 
 ## 🚀 Core Skills & Tech
