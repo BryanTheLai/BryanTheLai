@@ -1,6 +1,11 @@
 ## 👋 About Me
 
 Software engineer specializing in AI, data, and full-stack systems. 
+
+##🔥Launches
+- [Context Hunt](https://chromewebstore.google.com/detail/ghpfbkbjmkahphbldapidilapjdbmblj?utm_source=item-share-cb)
+- [Stackifier](https://www.stackifier.com/)
+  
 ---
 
 ## 🚀 Main Skills & Tech
