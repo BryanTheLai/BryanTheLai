@@ -1,19 +1,33 @@
 ## 👋 About Me
+
+Software engineer specializing in AI, data, and full-stack systems. 
 ---
 
-## 🚀 Core Skills & Tech
+## 🚀 Main Skills & Tech
 
-- **Programming Languages:** Python, TypeScript, JavaScript
+- **Languages:** TypeScript, Python  
+- **Frameworks:** FastAPI, Next JS  
+- **AI & ML:** Computer Vision, LLMs, Agentic Workflows  
+- **Data Engineering:** Celery, Redis, Neo4j
+- **Cloud & DevOps:** AWS, Docker, Vercel, Supabase  
 - **Version Control:** Git
-- **Frameworks & Libraries:** FastAPI, Streamlit, React
-- **AI & Machine Learning:** AI Workflows, Computer Vision, LLM, etc
-- **Data Engineering:** PySpark, Data Pipelines, Hadoop, Kafka, Redis, Neo4j
-- **Cloud & DevOps:** AWS, Docker, Vercel, Supabase
+
+---
+
+## 🏆 Achievements
+- Winner: Borneo Hackathon Idea Category, Futurehack (Cogniquery) 2nd Place, Solana Flipflop Hackathon  
+
+---
+
+## 🎓 Education
+
+- BSc Data Science (Full Scholarship), CGPA 3.87  
+- Diploma in Software Engineering, CGPA 3.88
 
 ---
 
 ## 🌐 Links
 
-- **Personal:** [bryanslab.com](https://bryanslab.com)
-- **Hugging Face:** [NotebookML](https://huggingface.co/NotebookML)
-- **Email:** [owner@bryanslab.com](mailto:owner@bryanslab.com)
+- [bryanslab.com](https://bryanslab.com)  
+- [NotebookML on Hugging Face](https://huggingface.co/NotebookML)  
+- [owner@bryanslab.com](mailto:owner@bryanslab.com)
