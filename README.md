@@ -15,7 +15,7 @@ Software engineer specializing in AI, data, and full-stack systems.
 ---
 
 ## 🏆 Achievements
-- Winner: Borneo Hackathon Idea Category, Futurehack (Cogniquery) 2nd Place, Solana Flipflop Hackathon  
+Borneo Hackathon Idea Category | Futurehack (Cogniquery) 2nd Place | Solana Flipflop Hackathon  
 
 ---
 
