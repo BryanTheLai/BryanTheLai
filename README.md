@@ -29,8 +29,8 @@ Borneo Hackathon Idea Category | Futurehack (Cogniquery) 2nd Place | Solana Flip
 
 ## 🎓 Education
 
-- BSc Data Science (Full Scholarship), CGPA 3.87  
-- Diploma in Software Engineering, CGPA 3.88
+- BSc Data Science
+- Diploma in Software Engineering
 
 ---
 
