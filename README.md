@@ -23,7 +23,7 @@ Software engineer specializing in AI, data, and full-stack systems.
 ---
 
 ## 🏆 Achievements
-Borneo Hackathon Idea Category | Futurehack 2nd Place | Solana Flipflop Hackathon  
+Borneo Hackathon Idea Category | Futurehack 2nd Place | Solana Flipflop Hackathon
 
 ---
 
@@ -37,5 +37,5 @@ Borneo Hackathon Idea Category | Futurehack 2nd Place | Solana Flipflop Hackatho
 ## 🌐 Links
 
 - [bryanslab.com](https://bryanslab.com)  
-- [NotebookML on Hugging Face](https://huggingface.co/NotebookML)  
+- [Hugging Face](https://huggingface.co/NotebookML)  
 - [owner@bryanslab.com](mailto:owner@bryanslab.com)
