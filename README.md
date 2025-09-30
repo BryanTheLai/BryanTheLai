@@ -13,12 +13,12 @@ Software engineer specializing in AI, data, and full-stack systems.
 
 ## 🚀 Main Skills & Tech
 
-- **Languages:** TypeScript, Python  
-- **Frameworks:** FastAPI, Next JS  
-- **AI & ML:** Computer Vision, LLMs, Agentic Workflows  
-- **Data Engineering:** Celery, Redis, Neo4j
-- **Cloud & DevOps:** AWS, Docker, Vercel, Supabase  
+- **Languages:** TypeScript, Python
+- **Frameworks:** FastAPI, Next JS
+- **AI & ML:** Computer Vision, LLMs, Agentic Workflows
+- **Cloud & DevOps:** AWS, Docker, Vercel, Supabase
 - **Version Control:** Git
+- **Others:** Celery, Redis, Neo4j
 
 ---
 
