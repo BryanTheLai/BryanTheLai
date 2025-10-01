@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Software engineer specializing in AI, data, and full-stack systems. 
+Exploring 
 
 ---
 
