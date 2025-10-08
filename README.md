@@ -6,8 +6,8 @@ Exploring
 
 
 ## 🔥Launches
-- [Context Hunt](https://chromewebstore.google.com/detail/ghpfbkbjmkahphbldapidilapjdbmblj?utm_source=item-share-cb)
-- [Stackifier](https://www.stackifier.com/)
+- [Context Hunt](https://chromewebstore.google.com/detail/ghpfbkbjmkahphbldapidilapjdbmblj?utm_source=item-share-cb) - Tabs Scraper
+- [Stackifier](https://www.stackifier.com/) - Billing Support & Management
   
 ---
 
