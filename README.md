@@ -9,7 +9,6 @@ Exploring
 - [Context Hunt](https://chromewebstore.google.com/detail/ghpfbkbjmkahphbldapidilapjdbmblj?utm_source=item-share-cb) - Tabs Scraper
 - [Stackifier](https://www.stackifier.com/) - Billing Support & Management
 - [pip install Stackifier](https://pypi.org/project/stackifier/) - Lightweight data collection library for WhatsApp AI agents
-- [Extract PDFS](https://extractpdfs.com/) - Extract PDFs like Invoices into an Excel File
 
   
 ---
