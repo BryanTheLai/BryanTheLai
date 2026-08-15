@@ -1,43 +1,60 @@
-## 👋 About Me
+# Bryan Lai
 
-Exploring 
+Software / ML engineer building reliable AI systems, automation, and products that survive contact with the real world.
 
----
+I work mostly in **Python** and **TypeScript**, across backend systems, AI applications, integrations, evaluations, and deployment.
 
+[Website](https://bryanslab.com) · [Hugging Face](https://huggingface.co/NotebookML) · [Email](mailto:owner@bryanslab.com)
 
-## 🔥Launches
-- [Context Hunt](https://chromewebstore.google.com/detail/ghpfbkbjmkahphbldapidilapjdbmblj?utm_source=item-share-cb) - Tabs Scraper
-- [Stackifier](https://www.stackifier.com/) - Billing Support & Management
-- [pip install Stackifier](https://pypi.org/project/stackifier/) - Lightweight data collection library for WhatsApp AI agents
+## Selected Work
 
-  
----
+### [KaunterAI](https://github.com/BryanTheLai/kaunterai)
 
-## 🚀 Main Skills & Tech
+Malaysia-first autonomous service desk for residential aircon operators.
 
-- **Languages:** TypeScript, Python
-- **Frameworks:** FastAPI, Next JS
-- **AI & ML:** Computer Vision, LLMs, Agentic Workflows
-- **Cloud & DevOps:** AWS, Docker, Vercel, Supabase
-- **Version Control:** Git
-- **Others:** Celery, Redis, Neo4j
+Telegram text and voice → booking → evaluation → human-approved SOP improvement.
 
----
+`TypeScript` `Supabase` `OpenAI` `Google Calendar` `Docker`
 
-## 🏆 Achievements
-Borneo Hackathon Idea Category | Futurehack 2nd Place | Solana Flipflop Hackathon
+### [StackRAG](https://github.com/BryanTheLai/StackRAG-Backend) · [frontend](https://github.com/BryanTheLai/StackRAG-Frontend)
 
----
+Multi-tenant financial document intelligence platform with PDF ingestion, multimodal extraction, RAG, secure data isolation, APIs, and evaluation.
 
-## 🎓 Education
+`Python` `FastAPI` `PostgreSQL` `pgvector` `React` `TypeScript`
+
+### [Billing AI](https://github.com/BryanTheLai/billing-ai)
+
+WhatsApp-first accounts-receivable workflow with invoice status, payment events, reminders, AI decisioning, and a human review queue.
+
+`AWS` `Amazon Bedrock` `FastAPI` `Next.js` `Stripe` `Twilio`
+
+### [GPU OCR](https://github.com/BryanTheLai/ocr-inference-gpu)
+
+Asynchronous GPU-backed OCR service for PDF and image processing, with task queues, Redis, Docker, and structured extraction.
+
+`Python` `FastAPI` `Celery` `Redis` `PaddleOCR` `CUDA`
+
+## What I Care About
+
+The interesting part of AI is not the demo. It is everything required to make the system dependable:
+
+- evaluations and failure analysis
+- observability, health checks, and operational tooling
+- idempotency, retries, and durable workflows
+- authentication and data isolation
+- human-in-the-loop controls
+- deployment, rollback, and recovery paths
+
+## Products and Writing
+
+- [Stackifier](https://www.stackifier.com/) — billing support and management
+- [Context Hunt](https://chromewebstore.google.com/detail/ghpfbkbjmkahphbldapidilapjdbmblj) — browser tab context scraper
+- [stackifier on PyPI](https://pypi.org/project/stackifier/) — lightweight data collection library for WhatsApp AI agents
+
+## Background
 
 - BSc Data Science
 - Diploma in Software Engineering
-
----
-
-## 🌐 Links
-
-- [bryanslab.com](https://bryanslab.com)  
-- [Hugging Face](https://huggingface.co/NotebookML)  
-- [owner@bryanslab.com](mailto:owner@bryanslab.com)
+- Borneo Hackathon — Idea Category
+- FutureHack — 2nd Place
+- Solana Flipflop Hackathon
